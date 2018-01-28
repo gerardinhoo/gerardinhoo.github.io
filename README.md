@@ -1,5 +1,5 @@
-# gerardinhoo.github.io
-## This repository contains a website that I built with Bootstrap, HTML, and CSS..
+# This
+## My Bootstrap Website
 * Technologies used:
 * HTML, CSS, Bootstrap
 * [View My Website Here](https://gerardinhoo.github.io)
